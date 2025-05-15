@@ -22,16 +22,15 @@ Curso completo que abrange desde os fundamentos da linguagem até o uso de ferra
 
 ```bash
 ├── 01_logica_basica/
-├── 02_estruturas_controle/
-├── 03_funcoes/
-├── 04_poo/
-├── 05_modulos_uteis/
+├── 02_python_intermediario/
+├── 03_introducao_poo/
+├── 04_modulos_uteis/
+├── 05_interfaces_graficas/
 ├── 06_bancos_de_dados/
-├── 07_interfaces_graficas/
-├── 08_django/
-├── 09_testes/
-├── 10_deploy/
-├── 11_bonus/
+├── 07_django/
+├── 08_testes/
+├── 09_deploy/
+├── 10_bonus/
 └── README.md
 ```
 
